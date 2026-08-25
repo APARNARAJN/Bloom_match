@@ -1,2 +1,2 @@
 # Bloom_match
-It's a simple flower matching memory game
+It's a simple flower matching memory game (prototype)
